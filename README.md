@@ -15,7 +15,7 @@
 
 ### Git Hub Stats:
 
-[![coderamrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=amr1n&show_icons=true&theme=prussian)](https://github.com/amr1n/github-readme-stats)
+[![coderamrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=coderamrin&show_icons=true&theme=prussian)](https://github.com/coderamrin/github-readme-stats)
 
 
 
