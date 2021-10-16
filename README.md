@@ -1,13 +1,12 @@
 ### Hi there, I'm Amrin
-## I'm a self taught programmer. I love reading books. 
+## I'm a self taught programmer and love books. 
 Currently I am building my blog with MERN stack :)
 I also write blogs on Hashnode you can find me there at [@coderamrin](https://hashnode.com/@coderamrin)<br>
 
-#### Let's Connect On:
+#### You can also find me on these platforms:
 [Twitter](https://twitter.com/CoderAmrin)<br>
-[Hashnode](https://hashnode.com/@coderamrin)<br>
 [dev.to](https://dev.to/coderamrin)
-
+[codenewbie.org](https://community.codenewbie.org/coderamrin)
 
 <br>
  
