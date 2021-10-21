@@ -5,7 +5,7 @@ I also write blogs on Hashnode you can find me there at [@coderamrin](https://ha
 
 #### You can also find me on these platforms:
 [Twitter](https://twitter.com/CoderAmrin)<br>
-[dev.to](https://dev.to/coderamrin)
+[dev.to](https://dev.to/coderamrin)<br> 
 [codenewbie.org](https://community.codenewbie.org/coderamrin)
 
 <br>
