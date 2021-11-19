@@ -1,6 +1,6 @@
 ### Hi there, I'm Amrin
 
-## I'm a self taught MERN (MongoDB, Express, React.js, Node.js) developer. I also write blog/tutorials on programming. 
+## I'm a self taught Frontend developer. I also write blog/tutorials on programming. 
 #### You can find my blogs on [Hashnode](https://hashnode.com/@coderamrin)
 #### Also recently i built my blog with MERN. [See here](https://coderamrin.herokuapp.com/blog)
 
