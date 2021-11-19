@@ -1,12 +1,13 @@
 ### Hi there, I'm Amrin
-## I'm a self taught programmer and love books. 
-Currently I am building my blog with MERN stack :)
-I also write blogs on Hashnode you can find me there at [@coderamrin](https://hashnode.com/@coderamrin)<br>
+
+## I'm a self taught MERN (MongoDB, Express, React.js, Node.js) developer. I also write blog/tutorials on programming. 
+#### You can find my blogs on [Hashnode](https://hashnode.com/@coderamrin)<br>
+##### Recently i built my blog with MERN. [See here](https://coderamrin.herokuapp.com/blog)
 
 #### You can also find me on these platforms:
-[Twitter](https://twitter.com/CoderAmrin)<br>
-[dev.to](https://dev.to/coderamrin)<br> 
-[codenewbie.org](https://community.codenewbie.org/coderamrin)
+#### [Twitter](https://twitter.com/CoderAmrin)<br>
+#### [dev.to](https://dev.to/coderamrin)<br> 
+#### [codenewbie.org](https://community.codenewbie.org/coderamrin)
 
 <br>
  
