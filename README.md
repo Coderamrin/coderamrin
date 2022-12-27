@@ -7,7 +7,6 @@ webdeveloper & designer
 * 🌍  I'm based in Feni, Bangladesh
 * ✉️  You can contact me at [coderamrin@gmail.com](mailto:coderamrin@gmail.com)
 * 🚀  I'm currently working on [Uilogs](http://uilogs.xyz)
-* 🧠  I'm learning JavaScript & React
 * 🤝  I'm open to collaborating on webdesign and development related projects.
 
 <a href="https://www.twitter.com/coderamrin" target="_blank" rel="noreferrer"><img
