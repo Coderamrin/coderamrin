@@ -1,13 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amrin.
 ==============================================================================================================================
 
-webdeveloper & designer
------------------------
+a frontend dev building random projects:
+- sanitystarters.com
+- gridpixels.org
+- coming....
 
-* 🌍  I'm based in Feni, Bangladesh
-* ✉️  You can contact me at [coderamrin@gmail.com](mailto:coderamrin@gmail.com)
-* 🚀  I'm currently working on [Uilogs](http://uilogs.xyz)
-* 🤝  I'm open to collaborating on webdesign and development related projects.
 
 <a href="https://www.twitter.com/coderamrin" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/coderamrin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=312e81"
